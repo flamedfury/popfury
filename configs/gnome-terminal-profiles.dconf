@@ -1,0 +1,24 @@
+[/]
+default='88f07ba2-7ced-42c3-8560-c3f478f635f9'
+list=['88f07ba2-7ced-42c3-8560-c3f478f635f9']
+
+[:88f07ba2-7ced-42c3-8560-c3f478f635f9]
+allow-bold=true
+background-color='#2E2E34344040'
+bold-color='#D8D8DEDEE9E9'
+bold-color-same-as-fg=true
+cursor-background-color='#D8D8DEDEE9E9'
+cursor-colors-set=true
+cursor-foreground-color='#2E2E34344040'
+font='Hack Nerd Font 12'
+foreground-color='#D8D8DEDEE9E9'
+palette=['#3B3B42425252', '#BFBF61616A6A', '#A3A3BEBE8C8C', '#EBEBCBCB8B8B', '#8181A1A1C1C1', '#B4B48E8EADAD', '#8888C0C0D0D0', '#E5E5E9E9F0F0', '#4C4C56566A6A', '#BFBF61616A6A', '#A3A3BEBE8C8C', '#EBEBCBCB8B8B', '#8181A1A1C1C1', '#B4B48E8EADAD', '#8F8FBCBCBBBB', '#ECECEFEFF4F4']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Nord'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(23,20,33)'
+font='Fira Mono 12'
+foreground-color='rgb(208,207,204)'

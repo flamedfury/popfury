@@ -1,0 +1,4 @@
+source ~/.local/share/popfury/defaults/bash/shell
+source ~/.local/share/popfury/defaults/bash/aliases
+source ~/.local/share/popfury/defaults/bash/prompt
+source ~/.local/share/popfury/defaults/bash/init

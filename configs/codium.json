@@ -1,0 +1,35 @@
+{
+  "workbench.colorTheme": "Nord",
+  "files.associations": {
+      "*.njk": "html"
+  },
+  "workbench.statusBar.visible": true,
+  "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Hack Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "redhat.telemetry.enabled": false,
+  "emmet.includeLanguages": {
+      "njk": "html"
+  },
+  "editor.linkedEditing": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.guides.bracketPairs": true,
+  "diffEditor.ignoreTrimWhitespace": false
+}

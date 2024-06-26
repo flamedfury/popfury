@@ -1,0 +1,129 @@
+{
+  "4065:C81DA1E2": {
+    "_modelId": "B34F40650000",
+    "_name": "G613 Wireless Mechanical Gaming Keyboard",
+    "_serial": "C81DA1E2",
+    "_unitId": "52D8838E",
+    "divert-gkeys": false,
+    "divert-keys": {
+      "209": 0,
+      "210": 0
+    },
+    "report_rate": 1
+  },
+  "406C:214852B5": {
+    "_modelId": "B01C406C0000",
+    "_name": "G603 Wireless Gaming Mouse",
+    "_sensitive": {
+      "divert-keys": false
+    },
+    "_serial": "214852B5",
+    "_unitId": "68F474DA",
+    "divert-keys": {
+      "209": 0,
+      "210": 0
+    },
+    "dpi": 800
+  },
+  "B034:9646F243": {
+    "_modelId": "B03400000000",
+    "_name": "MX Master 3S",
+    "_sensitive": {
+      "dpi": false,
+      "dpi-sliding": false,
+      "hires-smooth-invert": false,
+      "hires-smooth-resolution": false,
+      "mouse-gestures": false,
+      "reprogrammable-keys": false
+    },
+    "_serial": "9646F243",
+    "_unitId": "9646F243",
+    "divert-keys": {
+      "195": 1,
+      "196": 0,
+      "82": 0,
+      "83": 0,
+      "86": 0
+    },
+    "dpi": "1000",
+    "dpi-sliding": 0,
+    "hires-smooth-invert": false,
+    "hires-smooth-resolution": false,
+    "mouse-gestures": "195",
+    "reprogrammable-keys": {
+      "195": 195,
+      "196": 196,
+      "80": 80,
+      "81": 81,
+      "82": 82,
+      "83": 83,
+      "86": 86
+    },
+    "smart-shift": 10,
+    "thumb-scroll-invert": false,
+    "thumb-scroll-mode": false
+  },
+  "B366:D3954E6F": {
+    "_modelId": "B36600000000",
+    "_name": "MX Mechanical",
+    "_sensitive": {
+      "backlight": false,
+      "change-host": false,
+      "disable-keyboard-keys": false,
+      "divert-keys": false,
+      "fn-swap": false,
+      "multiplatform": false
+    },
+    "_serial": "D3954E6F",
+    "_unitId": "D3954E6F",
+    "backlight": true,
+    "disable-keyboard-keys": {
+      "1": false,
+      "16": false,
+      "2": false,
+      "4": false,
+      "8": false
+    },
+    "divert-keys": {
+      "10": 0,
+      "110": 0,
+      "111": 0,
+      "199": 0,
+      "200": 0,
+      "212": 0,
+      "226": 0,
+      "227": 0,
+      "228": 0,
+      "229": 0,
+      "230": 0,
+      "231": 0,
+      "232": 0,
+      "233": 0,
+      "259": 0,
+      "264": 0,
+      "266": 0,
+      "267": 0,
+      "268": 0,
+      "269": 0,
+      "270": 0,
+      "271": 0,
+      "272": 0,
+      "273": 0,
+      "274": 0,
+      "275": 0,
+      "276": 0,
+      "277": 0,
+      "278": 0,
+      "279": 0,
+      "280": 0,
+      "281": 0,
+      "282": 0,
+      "283": 0,
+      "284": 0,
+      "286": 0
+    },
+    "fn-swap": true,
+    "multiplatform": 0
+  },
+  "_version": "1.1.1"
+}

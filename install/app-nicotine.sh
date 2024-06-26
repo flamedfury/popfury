@@ -1,0 +1,1 @@
+flatpak install -y flathub org.nicotine_plus.Nicotine 
