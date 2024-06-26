@@ -2,7 +2,7 @@ echo "Installing git..."
 sudo apt-get update > /dev/null
 sudo apt-get install -y git > /dev/null
 
-echo "Cloning stable PopFURY..."
-git clone -b https://github.com/flamedfury.com/popfury.git ~/.local/share/popfury > /dev/null
+echo "Cloning PopFURY..."
+git clone https://github.com/flamedfury.com/popfury.git ~/.local/share/popfury > /dev/null
 
 source ~/.local/share/popfury/install.sh
