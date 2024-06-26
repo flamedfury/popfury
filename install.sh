@@ -14,9 +14,6 @@ for script in ~/.local/share/popfury/install/*.sh; do source $script; done
 
 # Upgrade everything that might ask for a reboot last
 sudo apt upgrade -y
-flatpak update -y
-sudo apt autoclean -y
-sudo apt autoremove -y
 
 # Revert to normal idle and lock settings
 gsettings set org.gnome.desktop.screensaver lock-enabled true
