@@ -9,5 +9,5 @@ Post install script for a fresh Pop!_OS 22.04 (Gnome)
 ## Setup
 
 ```bash
-wget -qO- https://github.com/flamedfury/popfury/blob/main/setup | bash
+wget -qO- https://raw.githubusercontent.com/flamedfury/popfury/main/setup | bash
 ```
