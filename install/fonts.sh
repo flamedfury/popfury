@@ -6,10 +6,10 @@ unzip Hack.zip -d Hack
 cp Hack/*.ttf ~/.local/share/fonts
 rm -rf Hack.zip Hack
 
-wget -O iafonts.zip https://github.com/iaolo/iA-Fonts/archive/refs/heads/master.zip
-unzip iafonts.zip -d iaFonts
-cp iaFonts/iA-Fonts-master/iA\ Writer\ Mono/Static/iAWriterMonoS-*.ttf ~/.local/share/fonts
-rm -rf iafonts.zip iaFonts
+wget -O overpass.zip https://github.com/RedHatOfficial/Overpass/releases/download/v3.0.5/overpass-3.0.5.zip
+unzip overpass.zip -d overpass
+cp overpass/Overpass-3.0.5/desktop-fonts/overpass/overpass-*.otf ~/.local/share/fonts
+rm -rf overpass.zip overpass
 
 fc-cache
 cd -

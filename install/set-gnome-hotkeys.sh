@@ -45,6 +45,6 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/or
 gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/ binding 'F9'
 
 # Set ALT+TAB to switch between windows instead of applications
-gsettings set org.gnome.shell.app-switcher current-workspace-only false
+gsettings set org.gnome.shell.app-switcher current-workspace-only true
 gsettings set org.gnome.shell.window-switcher current-workspace-only true
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"

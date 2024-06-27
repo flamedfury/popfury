@@ -111,7 +111,7 @@
 
 /* Rubik is a variable font (gwyneth 20201123) */
 @font-face {
-  font-family: "Hack Nerd Font";
+  font-family: "Rubik";
   font-style: normal;
   font-weight: normal;
   src: local("Rubik"), url("./nord/Rubik-VF.woff2") format("woff2");

@@ -1,0 +1,1 @@
+sudo aptinstall -y dino-im
