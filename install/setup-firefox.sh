@@ -1,6 +1,6 @@
 # Function to find the Firefox Developer Edition profile directory
 find_firefox_dev_profile() {
-  find ~/.mozilla/firefox -type d -name "*.dev-edition-default"
+  find ~/.mozilla/ -type d -name "*.dev-edition-default"
 }
 
 # Set preferences
@@ -12,9 +12,6 @@ set_preferences() {
   cat <<EOL >> "$user_js"
 // Disable default browser check
 user_pref("browser.shell.checkDefaultBrowser", false);
-
-// Set homepage
-user_pref("browser.startup.homepage", "https://www.example.com");
 
 // Enable Do Not Track
 user_pref("privacy.donottrackheader.enabled", true);
