@@ -47,6 +47,12 @@ user_pref("privacy.trackingprotection.socialtracking.enabled", true);
 // Enable smooth scrolling
 user_pref("general.smoothScroll", true);
 
+// Enable auto scrolling (middle button)
+user_pref("general.autoScroll", true);
+
+// Restore previous session on startup
+user_pref("browser.startup.page", 3);
+
 // Enable spell check in all text fields
 user_pref("layout.spellcheckDefault", 2);
 

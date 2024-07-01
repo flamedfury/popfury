@@ -6,3 +6,6 @@ export SUDO_EDITOR="nano"
 
 # Initialize Starship prompt
 eval "$(starship init bash)"
+
+# Might be needed for Lutris to run
+export PATH=$PATH:/usr/games

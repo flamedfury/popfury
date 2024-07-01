@@ -5,6 +5,7 @@ pipx install gnome-extensions-cli --system-site-packages
 gum confirm "To install Gnome extensions, you need to accept four confirmations. Are you ready?"
 
 gext install audio-output-switcher@anduchs
+gext install user-theme@gnome-shell-extensions.gcampax.github.com
 
 # Set default fonts
 gsettings set org.gnome.desktop.interface font-name 'Overpass Regular 11'
