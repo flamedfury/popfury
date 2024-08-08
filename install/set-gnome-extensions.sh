@@ -11,7 +11,10 @@ gext install user-theme@gnome-shell-extensions.gcampax.github.com
 gsettings set org.gnome.desktop.interface font-name 'Overpass Regular 11'
 gsettings set org.gnome.desktop.interface document-font-name 'Overpass Regular 11'
 gsettings set org.gnome.desktop.interface monospace-font-name 'Hack Nerd Font Mono 12'
-gsettings set org.gnome.desktop.wm.preferences titlebar-font 'Overpass SemiBold 11'
+gsettings set org.gnome.desktop.wm.preferences titlebar-font 'Overpass SemiBold 10'
+
+gsettings set org.gnome.desktop.interface font-hinting 'full'
+gsettings set org.gnome.desktop.interface font-antialiasing 'rgba'
 
 # Set cursor size
 gsettings set org.gnome.desktop.interface cursor-size 36
